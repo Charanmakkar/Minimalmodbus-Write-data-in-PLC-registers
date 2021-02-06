@@ -15,6 +15,6 @@ https://minimalmodbus.readthedocs.io/en/stable/
 https://minimalmodbus.readthedocs.io/en/stable/apiminimalmodbus.html
 
 
-PLC DELTA 14SS2 is rfered here.
+PLC DELTA 14SS2 is refered here.
 
 Images tagged tagged into repository are from data sheet for DVP14SS2, giving the modbus address with respect to different PLC registers...
