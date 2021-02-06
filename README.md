@@ -5,6 +5,8 @@ Trail done on Delta 14SS2 model.
 List of register is attached (Register List.xls) in this repository.
 
 
+Link to DOCUMENTATION of minimalmodbus
+
 https://minimalmodbus.readthedocs.io/en/stable/
 
 
